@@ -1,6 +1,6 @@
 # DSSL
 
-PyTorch implementation of IDECF
+PyTorch implementation of DSSL: Deep Successive Subspace Learning for Data Clustering
 
 <center><img src="https://github.com/Armanfard-Lab/DSSL/blob/main/Figures/overview.png" alt="Overview" width="800" align="center"></center>
 
