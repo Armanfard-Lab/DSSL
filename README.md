@@ -12,7 +12,7 @@ Please cite our paper if you intend to use our code or results.
 @inproceedings{sadeghi2021DSSL,
   title={Deep Successive Subspace Learning for Data Clustering},
   author={M. Sadeghi, and N. Armanfard},
-  booktitle={Accepted to be published in International Joint Conference on Neural Networks (IJCNN)},
+  booktitle={International Joint Conference on Neural Networks (IJCNN)},
   year={2021},
 }
 ```
